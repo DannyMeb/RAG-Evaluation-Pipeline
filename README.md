@@ -104,7 +104,7 @@ This pipeline processes and evaluates multiple language models (RagFlow, Dify) b
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/DannyMeb/RAG-Evaluation-Framework.git
+   git clone https://github.com/DannyMeb/RAG-Evaluation-Pipeline.git
    cd RAG-Evaluation-Framework
 
 2. **Create and Activate the Conda Environment:**
