@@ -1,7 +1,6 @@
 # Rag systems evaluation pipeline using Ragas
 
 ## Introduction
-### Authored by TII/AICCU/Edge-Team
 The Ragas Project is designed to generate and evaluate synthetic test sets for AI models, focusing on models like Falcon and Llama. This framework supports various evaluation categories and utilizes advanced techniques to provide insights into model performance.
 
 
